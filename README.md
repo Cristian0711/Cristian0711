@@ -26,10 +26,10 @@
 
 **Tools & Technologies:** IDA Pro | Ghidra | Docker | Windows API | Socket Programmingx | Memory Hooking | Process Injection | Web Development
 
-**Current Projects:**
-- mNb Auto - Advanced in-memory worker for game automation
-- mNb Discord Bot - Remote controller with encrypted P2P connection
-- Plex Media Server Manager - Centralized media management platform
+**Other Projects:**
+[Plex Server Frontend](https://github.com/Cristian0711/torrenting-plex)  Centralized media management frontend
+[Plex Server Backend](https://github.com/Cristian0711/express-plex-backend) - Centralized media management backend
+[Hardware Breakpoint Hooking](https://github.com/Cristian0711/Hardware-Breakpoint-Hooking) - A lightweight, thread-safe C++ library for managing hardware breakpoints on x86/x64 Windows systems.
 
 # 🌐 Connect:
 LinkedIn: [Cristian Stoica](https://www.linkedin.com/in/cristian-stoica-608b02212/)
