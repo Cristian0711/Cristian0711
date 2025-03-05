@@ -26,7 +26,7 @@
 
 **Tools & Technologies:** IDA Pro | Ghidra | Docker | Windows API | Socket Programming | Memory Hooking | Process Injection | Web Development
 
-**Other Projects:**
+**Other Projects:**  
 [Plex Server Frontend](https://github.com/Cristian0711/torrenting-plex)  Centralized media management frontend  
 [Plex Server Backend](https://github.com/Cristian0711/express-plex-backend) - Centralized media management backend  
 [Hardware Breakpoint Hooking](https://github.com/Cristian0711/Hardware-Breakpoint-Hooking) - A lightweight, thread-safe C++ library for managing hardware breakpoints on x86/x64 Windows systems.  
