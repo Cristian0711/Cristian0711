@@ -4,9 +4,9 @@
 
 🛠️ **Specialized in:** Low-level programming, memory manipulation, reverse engineering, and building secure applications with an emphasis on performance.
 
-🤝 **I'm looking to collaborate on:** Projects involving reverse engineering, software security, or game modification. I enjoy working on challenging technical problems that require deep system knowledge.
+🤝 **I'm looking to collaborate on:** Any software development applications, but I particularly enjoy working on projects related to reverse engineering and software security. I thrive on tackling challenging technical problems that require deep system knowledge and am open to any software development opportunities.  
 
-🌱 **I'm currently learning:** Enhancing my skills in web application security, kernel development, and expanding my knowledge of encryption protocols for secure communications.
+🌱 **I'm currently learning:** Enhancing my skills in web application security, kernel development, networking, application designs, and expanding my knowledge of encryption protocols for secure communications.
 
 💬 **Ask me about:**
 - Reverse engineering and binary analysis
@@ -24,12 +24,12 @@
 # 💻 Tech Stack:
 **Languages:** C++ | C | Assembly | Python | C# | Java | TypeScript
 
-**Tools & Technologies:** IDA Pro | Ghidra | Docker | Windows API | Socket Programmingx | Memory Hooking | Process Injection | Web Development
+**Tools & Technologies:** IDA Pro | Ghidra | Docker | Windows API | Socket Programming | Memory Hooking | Process Injection | Web Development
 
 **Other Projects:**
-[Plex Server Frontend](https://github.com/Cristian0711/torrenting-plex)  Centralized media management frontend
-[Plex Server Backend](https://github.com/Cristian0711/express-plex-backend) - Centralized media management backend
-[Hardware Breakpoint Hooking](https://github.com/Cristian0711/Hardware-Breakpoint-Hooking) - A lightweight, thread-safe C++ library for managing hardware breakpoints on x86/x64 Windows systems.
+[Plex Server Frontend](https://github.com/Cristian0711/torrenting-plex)  Centralized media management frontend  
+[Plex Server Backend](https://github.com/Cristian0711/express-plex-backend) - Centralized media management backend  
+[Hardware Breakpoint Hooking](https://github.com/Cristian0711/Hardware-Breakpoint-Hooking) - A lightweight, thread-safe C++ library for managing hardware breakpoints on x86/x64 Windows systems.  
 
 # 🌐 Connect:
 LinkedIn: [Cristian Stoica](https://www.linkedin.com/in/cristian-stoica-608b02212/)
